@@ -90,4 +90,4 @@ SELECT * FROM products WHERE category = 'Gifts' OR 1=1--' AND released = 1
 
 ## Labs
 
-- [ ] SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](../labs/sqli/01-where-clause-hidden-data.md)
