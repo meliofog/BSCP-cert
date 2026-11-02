@@ -78,3 +78,4 @@ Username `administrator'--` with an empty password comments out the password che
 Write-ups in `labs/sqli/`.
 
 - [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](../labs/sqli/01-where-clause-hidden-data.md)
+- [SQL injection vulnerability allowing login bypass](../labs/sqli/02-login-bypass.md)
